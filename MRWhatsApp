@@ -1,5 +1,5 @@
 {
-  "show_dialog": false,
+  "show_dialog": true,
   "title": "MRWhatsApp V2",
   "message": "Please update your application!",
   "button_text": "New Update",
