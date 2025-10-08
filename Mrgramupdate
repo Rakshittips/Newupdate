@@ -1,7 +1,10 @@
 {
-  "show_dialog": true,
-  "title": "Mrgram V2",
-  "message": "Please update your application!",
-  "button_text": "New Update",
-  "button_url": "https://t.me/Mr_Rakshit_2_0"
+  "ModsLabs_update": [
+    {
+      "version": "1.5.4",
+      "title": "New Update Available",
+      "description": "This is the latest update with several improvements and bug fixes.",
+      "download_link": "https://t.me/Mr_Rakshit_2_0"
+    }
+  ]
 }
