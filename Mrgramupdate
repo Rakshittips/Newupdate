@@ -1,8 +1,10 @@
 {
-  "showUpdate": true,
-  "title": "🔔 New Update Available!",
-  "message": "Please update the app to continue using it.",
-  "buttonText": "Update Now",
-  "updateUrl": "https://t.me/Mr_Rakshit_2_0",
-  "credit": "MR. NoOB"
+  "ModsLabs_update": [
+    {
+      "version": "1.2.0",
+      "title": "New Update Available!",
+      "description": "• Bug fixes\n• Performance improvements\n• New features added",
+      "download_link": "https://t.me/Mr_Rakshit_2_0"
+    }
+  ]
 }
